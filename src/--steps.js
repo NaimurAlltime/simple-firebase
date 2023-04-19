@@ -1,6 +1,6 @@
 /*
 Simple firebase integration:
---------initailization
+--------initialization -------
 1. visit: console.firebase.google.com
 2. create project (skip google analytics)
 3. register app (create config)
